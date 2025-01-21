@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML5, CSS3, Sass, JavaScript, Node.js, React.js, Redux, PHP, Laravel, Docker, Wordpress.**
 
-- 📫 You can contact me in **contacto@davidpitarch.dev**
+- 📫 You can contact me in **davidpitarchg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
